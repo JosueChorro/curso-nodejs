@@ -1,0 +1,24 @@
+{
+  "name": "practica-node",
+  "version": "1.0.0",
+  "description": "Curso Nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosueChorro/curso-nodejs.git"
+  },
+  "author": "Josue Chorro (Jc_aries)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosueChorro/curso-nodejs/issues"
+  },
+  "homepage": "https://github.com/JosueChorro/curso-nodejs#readme"
+}
